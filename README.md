@@ -1,2 +1,2 @@
-# CCCSDesign
+The Community Compliance Control System (CCCS) is a web application for homeowner association board of directors, community managers and homeowners to interact over community restrictions. CCCS will allow users the ability to enter specific compliance concerns for an identified address within their community. These concerns would be collected in a database and require an initial verification followed by monthly reminder checks until the compliance has been cleared. Residents who receive compliance letters would then be able to log into the system, see any images of the violations, dates they were observed, and pay any fines. # CCCSDesign
 User Interface Design for CCCS application
